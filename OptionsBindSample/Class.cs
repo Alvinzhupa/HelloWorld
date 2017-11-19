@@ -14,6 +14,7 @@ namespace OptionsBindSample
 
     public class Sudent
     {
+        public int dad { get; set; }
         public string name { get; set; }
         public int age { get; set; }
     }
