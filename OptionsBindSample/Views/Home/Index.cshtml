@@ -1,0 +1,8 @@
+﻿
+@using Microsoft.Extensions.Options
+@inject IOptions<OptionsBindSample.Class>   classAddress
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<h1>name:@classAddress.Value.age</h1>

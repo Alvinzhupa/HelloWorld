@@ -1,0 +1,16 @@
+﻿{
+  "name": "abd",
+  "age": 123,
+  "student": [
+    {
+      "name": "student1",
+      "age": 12312
+
+    },
+    {
+      "name": "student2",
+      "age": 1222222
+
+    }
+  ]
+}
